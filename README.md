@@ -18,7 +18,7 @@ git clone https://github.com/WebMobTechnologies/hacktoberfest2019.git
 4. Create a branch for new Issue
 
 ```sh
-git checkout -b issue/{branch-name}
+git checkout -b {branch-name}
 ```
 5. Add your name and details in the `static/Contributors.json` file 
 
