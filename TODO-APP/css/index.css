@@ -84,6 +84,7 @@ body {
   }
   
   /* Clear floats after the header */
+
   .header:after {
     content: "";
     display: table;
